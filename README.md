@@ -1,3 +1,11 @@
+# Docusaurus con login
+
+este repo tiene la version 3.7 de docusaurus By facebook, con la modificacion en la qse han agregado los JS de login, register y perfil , que son funcionales con el back de Pocketbase , solo lo instalas con las configuracion default de pocketbase y listo.
+
+si deseas puedes crear los html para que quede mas profesional  y dejas la logica en los js
+
+
+
 # Website
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
